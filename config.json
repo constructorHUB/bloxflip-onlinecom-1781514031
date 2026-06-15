@@ -1,0 +1,430 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#24294D",
+            "lang-select-color": "#222829",
+            "bg-light": "#24294D",
+            "welcome-bonus-bg": "#24294D",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#1A1F40",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#25ac61",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#3656FF",
+            "yellow": "#FCB526",
+            "yellow-button": "#3656FF",
+            "button-text": "#1A1F40",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#24294D",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "providers-back": "#24294D",
+            "faq-label": "#24294D",
+            "bg-footer": "#24294D",
+            "copyright": "#e7e7d5",
+            "starColor": "#FCB526",
+            "text-link": "#000057",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8742"
+        },
+        "seoGlobal": {
+            "name": "BloxFlip",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8743",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8744"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8745",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "BloxFlip Logo"
+        },
+        "heroGlobal": {
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8746",
+            "imageSizeModifier": 10,
+            "imageYModifier": -6,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8747",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "nav": {
+            "playNow": "Play Now"
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casinos",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8748",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "BloxFlip"
+        }
+    },
+    "language": {
+        "code": "en",
+        "region": "GB"
+    },
+    "pages": [
+        {
+            "id": "index",
+            "path": "\/",
+            "name": "index",
+            "sections": {
+                "seo": {
+                    "title": "BloxFlip Casino — Crash, Mines, Plinko, Dice and FlipCoins",
+                    "description": "BloxFlip brings together Crash, Mines, Plinko, Dice, Case Battles, Slots and Blackjack in a social casino format with FlipCoins, reward cases and Provably Fair gameplay.",
+                    "canonical": "bloxflip-online.com",
+                    "twitterSite": "bloxflip-online.com"
+                },
+                "hero": {
+                    "title": "BloxFlip Social Casino and Arcade with FlipCoins"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "At BloxFlip, we focus on fast-paced play, transparent mechanics, and a clear balance system.",
+                    "items": [
+                        "Fast access to BloxFlip game modes",
+                        "Crash, Mines, Plinko, Dice, Blackjack",
+                        "FlipCoins balance for smooth gameplay",
+                        "Provably Fair result verification system",
+                        "Daily rewards and reward cases",
+                        "Cashout via FlipCoins and limiteds",
+                        "Modern interface for R$ players"
+                    ],
+                    "advantagesAfterText": "Our casino combines arcade-style games, social casino features, and a user-first experience built around variety and control.",
+                    "knowMore": "Know more",
+                    "appTitle": "BloxFlip App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8758",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "BloxFlip App",
+                    "mobileGooglePlayImageTitle": "BloxFlip App",
+                    "mobileIosImageTitle": "BloxFlip App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About BloxFlip",
+                        "description1": "BloxFlip stands out with quick rounds and Provably Fair mechanics. We combine arcade-style gameplay, FlipCoins balance management, and multiple win formats.",
+                        "items": [
+                            "Multipliers up to x100+.",
+                            "Rewards from cases.",
+                            "Prizes from 5,000 R$+."
+                        ],
+                        "description2": "BloxFlip is a social casino and arcade platform designed around the R$ community. In our casino, we bring together fast game modes, FlipCoins balance management, and a modern entertainment format. The main focus is on short rounds, clear mechanics, and user-controlled pacing. Popular games include Crash, Mines, Towers, Dice, Plinko, Case Battles, Slots, and Blackjack. Crash is built around a rising multiplier and a decision-based cashout moment.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8759",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "BloxFlip",
+                        "description3": "Mines focuses on tile selection and risk control throughout the round. Towers adds a level-based format where each step changes the rhythm of play. Dice keeps the experience simple with adjustable roll conditions. Plinko delivers a visual, arcade-style result path. Case Battles introduce a competitive case-opening format. Slots bring a more familiar casino-style rhythm to the platform. Blackjack adds a classic card-game element to the BloxFlip library. We use Provably Fair mechanics in supported games so players can verify outcomes. Daily rewards, reward cases, and FlipCoins-based features support regular engagement. Competitive activity may include leaderboards, promotional events, ranking formats, and prize drops. At BloxFlip, we focus on clean navigation, quick access, and an interface that keeps the gameplay clear. FlipCoins help separate the playing balance from external deposit and cashout options. Users can choose between lower-pressure formats and high-tempo games. Account safety remains important, so official login routes and secure profile settings should always be used. BloxFlip is not a traditional online casino with standard slot suppliers, conventional banking flows, or a typical VIP structure. It is a hybrid social casino and arcade experience built around R$, FlipCoins, cases, fast rounds, and transparent game mechanics. This format gives BloxFlip a distinct identity for users who value speed, variety, and control."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Deposits, Withdrawals, and Player Support at",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Payments, Cashouts and Balance Security\n<\/h3>\n<p>\nAt BloxFlip, we use a FlipCoins balance for gameplay and platform-based transactions. Deposits may be available through fiat, crypto, FlipCoins, and limiteds, depending on account access and current platform options. BloxFlip does not operate like a traditional online casino with a standard banking list; our format is closer to a social casino and arcade platform. Deposit speed depends on the selected method, payment provider checks, and transaction confirmation. Digital balance updates are usually faster than methods requiring external processing. Cashouts may be available through FlipCoins or limiteds where supported. After approval, payout timing depends on technical processing, provider rules, and platform review. Transaction security is supported through account checks, activity monitoring, and third-party payment handling. We recommend using only official login routes and never sharing account details. Unusual activity may require additional verification before a withdrawal is completed. Limits may vary by account status, available method, and internal platform rules. Minimum and maximum amounts should be checked directly in the account before submitting a request. This gives users clearer control over balance movement and expected processing times.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #3656FF;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Deposit speed<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payout after approval<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Flip&shy;Coins<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant or fast<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Usually fast<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Lim&shy;iteds<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">After con&shy;fir&shy;mation<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">After review<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Crypto<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Network based<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Network based<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Fiat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Provider based<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Provider based<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMinimum Cashout\n<\/h4>\n<ul>\n  <li>• The minimum cashout depends on the selected method.<\/li>\n  <li>• Flip&shy;Coins and lim&shy;iteds may have different thresholds.<\/li>\n  <li>• The current amount should be checked in the account before each request.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMaximum Limits\n<\/h4>\n<ul>\n  <li>• Daily limits may depend on account status and method type.<\/li>\n  <li>• Monthly limits may change under internal platform rules.<\/li>\n  <li>• Larger requests may require add&shy;itional review before approval.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Customer Support and User Assistance\n<\/h3>\n<p>\nAt BloxFlip, customer support is focused on clear answers, practical guidance, and account-related help. We assist with deposits, cashouts, FlipCoins, reward cases, game access, and technical issues. The main support channel is usually connected to live chat or the available help form. Email is useful for detailed cases where the user needs to explain an issue and include transaction details. Phone support may not be available because BloxFlip follows a digital-first service model. Response time depends on support volume, case complexity, and whether additional review is needed. Simple interface or balance questions can often be handled faster. Cashout, account security, and disputed activity requests may take longer because they require checks. Service quality improves when the request includes accurate account and transaction information. We recommend adding the username, operation type, approximate time, and a short issue description. For account protection, support should never ask for a password or private login details. Language availability may vary depending on the channel and current team coverage. English is generally the main communication language. Clear and structured messages help the team review the request more efficiently. At BloxFlip, we aim to keep support practical, consistent, and helpful across the full user journey.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact Channels\n<\/h4>\n<ul>\n  <li>• Chat — for quick questions about games, balance, and account access.<\/li>\n  <li>• Email — for detailed cases, reviews, and transaction-related requests.<\/li>\n  <li>• Phone — may not be available in a digital-first support model.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse Time\n<\/h4>\n<ul>\n  <li>• Simple questions are usually reviewed faster.<\/li>\n  <li>• Cashout and security cases may need extra checks.<\/li>\n  <li>• High support volume can extend response times.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguage Access\n<\/h4>\n<ul>\n  <li>• English is generally the primary support language.<\/li>\n  <li>• Other languages may depend on current team coverage.<\/li>\n  <li>• Clear details help reduce back-and-forth messages.<\/li>\n<\/ul><br>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Game Selection, Betting Rules, and Casino Tournaments",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Games, Modes and Bet Types\n<\/h3>\n<p>\nBloxFlip offers a social casino and arcade-style game library rather than a traditional online casino lobby. In our casino, users can choose fast games, card-based play, case formats, and multiplier-driven modes. Crash is one of the most recognisable BloxFlip games because each round follows a rising multiplier. Mines is built for users who prefer tile selection and step-by-step risk control. Towers adds a level-based structure where every decision changes the flow of the round. Dice keeps gameplay simple with adjustable roll conditions and a clear result format. Plinko creates a visual arcade experience through ball movement and multiplier zones. Case Battles bring a competitive case-opening format where outcomes are compared between players. Slots add a familiar casino rhythm with spins and combinations. Blackjack introduces classic card-game decision-making to the BloxFlip environment. Bets are generally placed through the internal balance rather than a traditional land-based chip system. Available limits depend on the selected mode and account settings. Some games are suited to short sessions, while others reward more careful risk management. Supported games use Provably Fair mechanics so outcomes can be checked. This mix gives BloxFlip a flexible identity for users who value speed, variety, and transparent game flow.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMultiplier Games\n<\/h4>\n<ul>\n  <li>• Crash — rising multiplier with manual cashout timing.<\/li>\n  <li>• Dice — adjustable roll settings and clear outcome rules.<\/li>\n  <li>• Plinko — visual arcade action with multiplier zones.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDecision-Based Games\n<\/h4>\n<ul>\n  <li>• Mines — tile selection with risk control.<\/li>\n  <li>• Towers — level-by-level progression and choices.<\/li>\n  <li>• Black&shy;jack — card decisions based on classic rules.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCases and Arcade Modes\n<\/h4>\n<ul>\n  <li>• Case Battles — competitive case-opening rounds.<\/li>\n  <li>• Slots — spins, combinations, and familiar pacing.<\/li>\n  <li>• Reward Cases — extra activity through case rewards.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Minimum and Maximum Bets by Game\n<\/h3>\n<p>\nAt BloxFlip, bet limits depend on the selected game mode, account balance, and current platform settings. We use FlipCoins as the main internal unit for gameplay. Before starting a round, users can review the available amount and choose a suitable stake. The values below provide a general structure for understanding common bet ranges.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #3656FF;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Crash<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£500<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Mines<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£500<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Towers<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£500<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Dice<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£500<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Plinko<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£500<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Case Battles<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£500<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Black&shy;jack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1,000<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Tournaments, Leaderboards and Prize Tracking\n<\/h3>\n<p>\nAt BloxFlip, tournaments and leaderboards add a competitive layer to regular game modes. We may track user activity in selected games, stake volume, completed rounds, spins, multipliers, or performance within a set period. Point rules depend on the specific event and are shown in the tournament terms. Some events focus on total activity, while others may reward the highest multiplier or strongest result. The leaderboard helps users follow their current position and compare progress with other participants. To join, users usually need to open the event page, review the rules, and play the eligible modes. Points may be added automatically after qualifying rounds are completed. Prizes can be claimed automatically, through a claim button, or after result verification. If the event uses reward cases or FlipCoins, the prize may be credited to the internal balance. Event timing matters because activity outside the listed period may not count. We recommend checking the leaderboard before the event ends to understand the current position. This format gives BloxFlip a more dynamic structure and adds extra interest to regular play.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHow to Join\n<\/h4>\n<ul>\n  <li>• Open the tournament or event page.<\/li>\n  <li>• Check dates, eligible games, and scoring rules.<\/li>\n  <li>• Play only the modes listed in the event terms.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWhat Counts\n<\/h4>\n<ul>\n  <li>• Stake size or total play volume.<\/li>\n  <li>• Number of rounds, spins, or cases.<\/li>\n  <li>• Best multiplier, result, or leaderboard position.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHow to Claim\n<\/h4>\n<ul>\n  <li>• Check the final leaderboard after the event closes.<\/li>\n  <li>• Use the claim button if manual collection is required.<\/li>\n  <li>• Wait for review if results need verification.<\/li>\n<\/ul><br>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "What is BloxFlip?",
+                            "answer": "BloxFlip is a social casino and arcade platform for the R$ community, using a FlipCoins-based internal balance."
+                        },
+                        {
+                            "title": "Is BloxFlip a traditional online casino?",
+                            "answer": "No, our format is different from a traditional online casino because we focus on arcade modes, FlipCoins, cases, and fast gameplay."
+                        },
+                        {
+                            "title": "What are FlipCoins?",
+                            "answer": "FlipCoins are the internal balance unit used for games and supported platform transactions."
+                        },
+                        {
+                            "title": "Does BloxFlip use Provably Fair?",
+                            "answer": "Yes, supported BloxFlip games use Provably Fair mechanics so users can verify results."
+                        },
+                        {
+                            "title": "Can third-party predictors be used?",
+                            "answer": "We do not recommend predictors, bots, or external tools because they may be unsafe and may violate platform rules."
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "app",
+            "path": "\/app",
+            "name": "App",
+            "sections": {
+                "seo": {
+                    "title": "BloxFlip App: Mobile Casino Games, Rewards and FlipCoins",
+                    "description": "BloxFlip App gives mobile browser access to Crash, Mines, Plinko, Towers, Blackjack, Slots, rewards, FlipCoins, £ deposits and provably fair gameplay.",
+                    "canonical": "bloxflip-online.com\/app",
+                    "twitterSite": "bloxflip-online.com\/app"
+                },
+                "hero": {
+                    "title": "BloxFlip App — Mobile Social Casino and Arcade Access"
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Mobile Access to the BloxFlip",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Mobile App and Mobile Access\n<\/h3>\n<p>\nBloxFlip is built primarily as a mobile-friendly web platform, giving users access through a smartphone browser without requiring a separate app installation. Our casino keeps the main account tools, FlipCoins balance, rewards, deposits, withdrawals and game lobby available on smaller screens. The mobile experience supports core BloxFlip games such as Crash, Mines, Towers, Dice, Plinko, Blackjack, Slots, Case Battles and other arcade-style modes. We keep one shared account balance across desktop and mobile, so users can move between devices without creating a new profile. The interface is designed for quick navigation, clear bet controls and simple access to account settings. Mobile players can also use provably fair game features, check game history and manage their balance from the same account area. For smooth access, a modern browser, updated device software and a stable internet connection are recommended. BloxFlip mobile access is not a separate version of the brand; it is part of the same social casino and arcade platform. This approach keeps the experience familiar, direct and easy to use on the go.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Mobile Casino Features and Games\n<\/h3>\n<p>\nThe BloxFlip mobile version works directly through a browser and adapts to smartphones and tablets without a separate download. We keep the core account experience available on mobile, including sign-in, FlipCoins balance management, deposits, withdrawals, rewards, profile tools and activity history. Games load inside the browser, with controls adjusted for touch screens and shorter mobile sessions. Users can move through the lobby, choose a game mode, set their stake, manage multipliers and view outcomes from the same account. The mobile platform also supports provably fair mechanics across game modes, keeping result verification part of the experience. Our mobile lobby includes both fast arcade games and casino-style formats, making the platform familiar across desktop and handheld devices.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMobile Account Tools\n<\/h4>\n<ul>\n            <li>• FlipCoins balance, deposits, withdrawals, rewards, profile settings and activity history are available from the mobile interface.<\/li>\n            <li>• Touch-friendly controls make it easier to manage stakes, multipliers, cashout options and game selections on a phone screen.<\/li>\n            <li>• Provably fair verification remains part of the BloxFlip mobile experience.<\/li>\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAvailable Mobile Games\n<\/h4>\n<ul>\n            <li>• Crash, Mines, Towers, Dice and Plinko are available for quick arcade-style sessions.<\/li>\n            <li>• Blackjack, Slots, Case Battles and Jackpot are included for users who prefer casino-style formats.<\/li>\n            <li>• Cups, Wheel, Slide, Raffle, Big Roll and other BloxFlip modes can also be accessed from mobile.<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Supported Devices and Network Requirements\n<\/h3>\n<p>\nBloxFlip mobile access is designed for modern smartphones and tablets running updated iOS or Android software. We recommend using Safari, Chrome, Edge or another current browser with JavaScript enabled and secure connection support. A stable Wi-Fi, 4G or 5G connection helps the platform load games, account tools, balance updates and live elements smoothly. Older devices may still open the mobile site, but animations and game screens can take longer to respond. For payments in £, FlipCoins balance tools and account verification, browser settings should allow secure authentication steps and essential pop-up elements. A separate app installation is not required because the mobile version works through the BloxFlip website.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSupported Devices\n<\/h4>\n<ul>\n            <li>• iPhone and Android smartphones with updated mobile browsers.<\/li>\n            <li>• iPad and Android tablets for a larger mobile lobby view.<\/li>\n            <li>• Desktop and laptop browsers using the same BloxFlip account.<\/li>\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConnection and Browser Needs\n<\/h4>\n<ul>\n            <li>• Stable Wi-Fi, 4G or 5G connection for smoother gameplay and account updates.<\/li>\n            <li>• JavaScript-enabled browser with secure HTTPS support.<\/li>\n            <li>• Updated device software to improve loading speed and interface response.<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Security, Privacy and Data Protection\n<\/h3>\n<p>\nAt BloxFlip, we focus on secure account access, protected balance management and transparent game mechanics. The mobile version uses a secure connection so login details, FlipCoins activity and account actions are handled through a protected channel. Our game modes use provably fair technology, allowing outcomes to be verified through a mathematical process. We recommend using a unique password, keeping account details private and accessing BloxFlip only through the official platform. When handling deposits in £, crypto, FlipCoins or limiteds, users should review transaction details before confirming any action. Device-level privacy also matters, so screen lock, browser updates and avoiding unknown extensions help reduce unnecessary risk.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAccount Protection\n<\/h4>\n<ul>\n            <li>• Use a unique password and keep login details private.<\/li>\n            <li>• Access BloxFlip only through the official platform.<\/li>\n            <li>• Review deposits, withdrawals and balance actions before confirmation.<\/li>\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nFairness and Data Safety\n<\/h4>\n<ul>\n            <li>• Provably fair technology supports transparent game result verification.<\/li>\n            <li>• Secure connection standards help protect account and balance activity.<\/li>\n            <li>• Updated browsers and device security settings improve mobile privacy.<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Mobile Bonuses and Rewards\n<\/h3>\n<p>\nThe BloxFlip mobile rewards area is available directly from the account menu, allowing users to check available rewards from a phone or tablet. We use reward formats such as free cases, daily rewards, rakeback and affiliate rewards, with availability based on account activity and current platform rules. Rewards are connected to the FlipCoins balance and appear within the BloxFlip interface. Before using any reward, users should review the current limits, timing and eligibility details shown in their account.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBloxFlip Reward Types\n<\/h4>\n<ul>\n            <li>• Daily Rewards — available once every 24 hours through the rewards area and may include free cases or FlipCoins.<\/li>\n            <li>• Free Cases — reward cases can be opened from the mobile rewards section, with contents based on current platform conditions.<\/li>\n            <li>• Rakeback — a return-style reward connected to account gameplay activity and shown inside the rewards section when available.<\/li>\n            <li>• Affiliate Rewards — programme-based rewards linked to affiliate activity and eligibility rules.<\/li>\n            <li>• Flat 5% House Edge — BloxFlip states a 5% house edge across game modes, making game calculations easier to understand.<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Mobile Platform Advantages\n<\/h3>\n<p>\nThe BloxFlip mobile platform keeps the main casino and arcade features available without tying the account to a desktop device. We provide one shared account, a single FlipCoins balance, access to rewards and a full mobile game lobby through a smartphone browser. This creates a flexible mobile casino experience while keeping the familiar BloxFlip structure.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #3656FF;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Advan&shy;tage<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Availa&shy;ble Tools<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Mobile Experi&shy;ence<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Shared Account<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">FlipCoins balance, profile, history and rewards<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">One login across mobile and desktop<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Quick Access<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Games, rewards, deposits and withdrawals<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Browser-based use without mandatory instal&shy;lation<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Game Choice<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Crash, Mines, Plinko, Towers, Blackjack and Slots<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Arcade and social casino modes in one lobby<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Trans&shy;parency<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Provably fair checks and 5% house edge<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Clear game mechanics for mobile sessions<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Do I need to download a BloxFlip app?",
+                            "answer": "No. BloxFlip mobile access works through a browser, so a mandatory app download is not required."
+                        },
+                        {
+                            "title": "Can I withdraw FlipCoins from a phone?",
+                            "answer": "Yes. Withdrawals can be managed from the mobile interface, with transaction details shown before confirmation."
+                        },
+                        {
+                            "title": "Does the BloxFlip live feed work on mobile?",
+                            "answer": "Yes. The live feed and game updates are available on mobile, with performance depending on device quality and connection stability."
+                        },
+                        {
+                            "title": "Can I play Case Battles on a smartphone?",
+                            "answer": "Yes. Case Battles are available in the mobile lobby alongside other BloxFlip games and arcade modes."
+                        },
+                        {
+                            "title": "Is BloxFlip suitable for tablets?",
+                            "answer": "Yes. Tablets are supported through a browser and provide a larger view of the lobby, games and account tools."
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "bonuses",
+            "path": "\/bonuses",
+            "name": "Bonuses",
+            "sections": {
+                "seo": {
+                    "title": "BloxFlip Bonuses: Free Cases, Daily Rewards, Rakeback and FlipCoins",
+                    "description": "BloxFlip Bonuses include daily rewards, free cases, rakeback, affiliate rewards, level rewards, FlipCoins, key cases and provably fair games with a 5% house edge.",
+                    "canonical": "bloxflip-online.com\/bonuses",
+                    "twitterSite": "bloxflip-online.com\/bonuses"
+                },
+                "hero": {
+                    "title": "BloxFlip Bonuses — Rewards, Rakeback and Free Cases"
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "BloxFlip Welcome Bonuses, Free Spins, and Promotions",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Casino Bonuses and Rewards\n<\/h3>\n<p>\nBloxFlip rewards are built around FlipCoins, free cases, daily rewards, rakeback and affiliate-based bonuses. We operate as a social casino and arcade platform, so our bonus structure is different from traditional online casino free spins and match offers. Available rewards are shown inside the user account, with current terms displayed before use. BloxFlip also keeps gameplay transparent with provably fair game modes and a flat 5% house edge across games, making the reward and play experience easier to understand.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Welcome Bonus, Deposits and Minimum Deposit Details\n<\/h3>\n<p>\nBloxFlip does not use a standard welcome package such as “100% up to £X” as a permanent public offer. We focus on account-based rewards, FlipCoins access, free cases and social casino game modes after registration and deposit. Minimum deposit values can vary by payment method, including crypto, card, Robux, limiteds, FlipCoins and other cashier options. For £ payments, the current limit is shown in the cashier before the transaction is confirmed. This keeps the deposit process clear because available methods, limits and processing details may differ by account and payment route.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBloxFlip Welcome Reward Details\n<\/h4>\n<ul>\n            <li>• Fixed welcome match bonus — 0% as a permanent public package unless a separate account offer is displayed.<\/li>\n            <li>• Free cases — may appear in the rewards area after sign-in, depending on current platform conditions.<\/li>\n            <li>• Daily rewards — usually connected to regular account activity and checked from the rewards section.<\/li>\n            <li>• FlipCoins — the main balance used for BloxFlip games, cases and withdrawals.<\/li>\n            <li>• Game structure — BloxFlip states a flat 5% house edge across game modes.<\/li>\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBloxFlip Deposit Options\n<\/h4>\n<ul>\n            <li>• Fiat deposits may be displayed in £ where supported in the cashier.<\/li>\n            <li>• Payment routes can include crypto, card, Robux, limiteds, FlipCoins and other available methods.<\/li>\n            <li>• Minimum deposit values are shown separately for each payment method before confirmation.<\/li>\n            <li>• Deposits are credited to the BloxFlip balance as FlipCoins for use across supported games.<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Bonus Wagering Terms\n<\/h3>\n<p>\nBloxFlip wagering conditions depend on the specific reward type because our bonus system is based on FlipCoins, cases, rakeback and daily rewards. We do not apply one universal wagering rule to every reward, so the current requirements are shown next to the relevant offer inside the account. Free cases usually follow the case-opening mechanic, with results credited according to the active rewards rules. Rakeback is connected to gameplay activity and may be calculated across instant, daily, weekly or monthly periods when these tiers are available. BloxFlip game modes use a stated 5% house edge and provably fair result verification. Before using a reward, users should review expiry time, limits, eligible games and any FlipCoins withdrawal conditions.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHow to Activate a BloxFlip Bonus\n<\/h3>\n<p>\nTo activate a BloxFlip bonus, users need to sign in and open the rewards area or account profile where available offers are displayed. We show current rewards directly inside the user interface, so the list may vary depending on activity, level and platform conditions. If a daily reward, free case or rakeback option is available, it can be checked and claimed through the relevant account button. Some rewards may require a deposit, gameplay activity or another eligibility condition before they appear. After activation, the reward is usually reflected in the FlipCoins balance, rewards section or account history. Before confirming any reward, users should review limits, timers, claim status and possible usage restrictions.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nOther BloxFlip Bonuses and Extra Rewards\n<\/h3>\n<p>\nAlongside standard account rewards, BloxFlip uses several bonus formats connected to user activity and the FlipCoins balance. We keep the rewards area flexible, allowing users to check free cases, daily rewards, rakeback, affiliate rewards and level rewards from their account. Conditions may vary, so current figures and availability are shown directly in the interface. The key feature of BloxFlip bonuses is that they are integrated into arcade games, cases and social casino mechanics rather than traditional free spin packages.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBloxFlip Bonus Types\n<\/h4>\n<ul>\n            <li>• Daily Rewards — available once every 24 hours when shown in the account and may include free cases or FlipCoins.<\/li>\n            <li>• Free Cases — reward cases opened from the rewards area, with outcomes based on the active case structure.<\/li>\n            <li>• Rakeback — may include instant, daily, weekly and monthly tiers based on gameplay activity.<\/li>\n            <li>• Affiliate Rewards — programme-based rewards connected to referred users and eligible activity.<\/li>\n            <li>• Level Rewards — account-level rewards where availability depends on current level and platform conditions.<\/li>\n            <li>• Key Cases — case-based rewards linked to keys and current BloxFlip reward settings.<\/li>\n            <li>• 5% House Edge — BloxFlip states a flat 5% house edge across game modes.<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip VIP and Loyalty Programme\n<\/h3>\n<p>\nBloxFlip loyalty mechanics are connected to account level, rakeback, level rewards, key cases and gameplay activity. We do not present a fixed public VIP ladder with universal names such as Bronze, Silver or Gold. Instead, users can view their current level, available rewards and progress inside the account. This structure fits a social casino and arcade platform where status is shaped by activity, FlipCoins use and participation in supported game modes.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #2A4F51;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Level<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Meaning<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Availa&shy;ble Rewards<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Level 0<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Starting account status<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Rewards area and daily rewards when available<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Level 1+<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Progress through activity<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Level rewards, key cases and rakeback when available<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Active User<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Regular play across BloxFlip games<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant, daily, weekly or monthly rakeback tiers<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Affil&shy;iate Status<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Participation in the referral programme<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Affil&shy;iate rewards based on eligible activity<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Does BloxFlip have a traditional first deposit bonus?",
+                            "answer": "BloxFlip does not use a permanent public welcome match bonus such as “100% up to £X”. Available rewards, free cases and account offers are shown inside the user account."
+                        },
+                        {
+                            "title": "Can I get a bonus without depositing?",
+                            "answer": "Some free cases or daily rewards may be available without a new deposit. Availability depends on the account and current rewards settings."
+                        },
+                        {
+                            "title": "What is BloxFlip rakeback?",
+                            "answer": "Rakeback is a reward linked to account gameplay activity. It may appear as instant, daily, weekly or monthly rakeback when the relevant tier is available."
+                        },
+                        {
+                            "title": "Are there rewards for referring friends?",
+                            "answer": "Yes. Affiliate rewards may be earned through the referral programme, depending on referred user activity and affiliate rules."
+                        },
+                        {
+                            "title": "Can bonuses be used in every game?",
+                            "answer": "Bonus use depends on the reward type. Some rewards are tied to cases, while others relate to FlipCoins balance or rakeback."
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "terms",
+            "path": "\/terms",
+            "name": "Terms",
+            "sections": {
+                "seo": {
+                    "title": "BloxFlip Terms: Verification Rules, Account Restrictions and Platform Security",
+                    "description": "Learn about BloxFlip account requirements, registration rules, verification procedures, payment restrictions, rewards limitations, account security measures and responsible platform use.",
+                    "canonical": "bloxflip-online.com\/terms",
+                    "twitterSite": "bloxflip-online.com\/terms"
+                },
+                "hero": {
+                    "title": "BloxFlip Terms — Platform Rules, Restrictions and Account Requirements"
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Terms and Conditions: BloxFlip Rules and Requirements",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Access Rules and User Eligibility\n<\/h3>\n<p>\nTo use BloxFlip, players must create a personal account and comply with the platform's terms and conditions. We provide access only to users who meet the minimum age requirement established by our rules and applicable regulations. Accurate personal information is required during registration and may be reviewed during verification procedures. Users are responsible for protecting their login credentials and ensuring lawful access to the platform. Certain account functions, including deposits, withdrawals, rewards and balance-related features, may require additional identity checks. We may restrict access to specific services until verification requirements have been completed. Continued use of BloxFlip confirms acceptance of our platform rules, privacy standards and responsible gaming principles.\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Platform Restrictions\n<\/h3>\n<p>\nBloxFlip applies a number of restrictions designed to support account security, platform integrity and fair use of available services.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAge Restrictions\n<\/h4>\n<p>\nAccess is limited to users who meet the minimum age requirement. We may request age verification at any stage of account use. If incorrect information is detected, access may be restricted until the review is completed. Failure to satisfy age requirements may result in account closure.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAccount Restrictions\n<\/h4>\n<p>\nUsers are generally expected to maintain a single primary account. Creating multiple accounts to obtain additional rewards, bonuses or platform advantages may be treated as a violation of the rules. Additional reviews may be conducted when linked accounts are detected. Related accounts may be restricted if necessary.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nVerification Restrictions\n<\/h4>\n<p>\nCertain features may require completion of KYC procedures. Until verification is completed, some account functions may remain unavailable. We may request identification, age confirmation or payment-related documentation. These checks help maintain platform security.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPlatform Usage Restrictions\n<\/h4>\n<p>\nAccess to specific features may depend on account status, transaction history and verification results. Some rewards, cases and promotions are available only to eligible users. Technical restrictions may also be applied to support platform stability. Such measures may be temporary.\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Prohibited Activities\n<\/h3>\n<p>\nTo maintain platform security and fair participation, BloxFlip prohibits a range of activities that may affect users, rewards or platform operations.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nFalse Information\n<\/h4>\n<p>\nRegistration using inaccurate, misleading or third-party information is prohibited. Account details must remain truthful and current. If inconsistencies are identified, access may be limited pending review. Serious violations may result in permanent restrictions.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nFraudulent Behaviour\n<\/h4>\n<p>\nAttempts to exploit rewards, bonuses or account systems are not permitted. This includes multi-account activity and abuse of promotional mechanisms. Investigations may be conducted where unusual patterns are detected. Confirmed violations may lead to account action.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nUnauthorised Access\n<\/h4>\n<p>\nAccessing another user's account or attempting to interfere with platform systems is strictly prohibited. Security measures are used to identify such activity. These actions are treated as major breaches of platform rules. Immediate restrictions may apply.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAutomated Software\n<\/h4>\n<p>\nBots, scripts and automated tools designed to influence gameplay or platform functionality are not allowed. User activity should be performed manually. Monitoring systems may be used to identify automated behaviour. Accounts associated with such activity may face sanctions.\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Registration and Verification Rules\n<\/h3>\n<p>\nCreating a BloxFlip account requires accurate and up-to-date personal information. Users should review their details carefully before completing registration, as later amendments may require additional checks. Once registered, players gain access to supported games, profile features and standard account tools. Certain services, including withdrawals, higher limits or special rewards, may require identity verification. During verification, we may request documentation confirming identity, age, address or payment ownership. Information is processed according to privacy and security procedures.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Payment, Bonus and Responsible Gaming Restrictions\n<\/h3>\n<p>\nPayment limits may vary depending on the selected deposit or withdrawal method. We may apply minimum and maximum transaction thresholds as well as additional checks for higher-risk activity. Bonus restrictions can apply to rewards, free cases, rakeback and other promotional features. Certain offers may be available only to eligible users or for limited periods. Responsible gaming measures support account control and may include restrictions designed to protect users. Additional safeguards may temporarily affect access to selected platform functions.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Account Suspension Reasons\n<\/h3>\n<p>\nA BloxFlip account may be restricted or suspended when platform rules are violated, inaccurate information is provided or security controls are bypassed. Action may also be taken against accounts connected to multi-account activity, fraudulent behaviour or prohibited software use. In some situations, restrictions may remain in place until verification procedures are completed. Decisions are based on internal reviews and account activity assessments. These measures help protect users and maintain platform integrity.\n<\/p>\n<br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #3656FF;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Violation<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Con&shy;sequence<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Review Status<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>False Data<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Account restric&shy;tion<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Verifi&shy;cation required<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Multi&shy;accounting<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Rewards restric&shy;tion<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Additional review<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bot Usage<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Access restric&shy;tion<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Activity review<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Suspicious Activity<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Temporary block<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Financial review<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Can account details be changed after registration?",
+                            "answer": "Yes. Some changes are possible, although additional verification may be required."
+                        },
+                        {
+                            "title": "How long does account verification take?",
+                            "answer": "Processing times vary depending on the review requirements and submitted documents."
+                        },
+                        {
+                            "title": "Why are some account features temporarily unavailable?",
+                            "answer": "This may be due to security reviews, maintenance or pending verification requirements."
+                        },
+                        {
+                            "title": "Does changing devices affect account access?",
+                            "answer": "Additional confirmation may occasionally be required for security purposes."
+                        },
+                        {
+                            "title": "Why might an account be reviewed?",
+                            "answer": "Reviews may occur because of unusual activity, payment changes or security procedures."
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "privacy",
+            "path": "\/privacy",
+            "name": "Privacy",
+            "sections": {
+                "seo": {
+                    "title": "BloxFlip Privacy: Personal Data Processing, Cookies and Security Measures",
+                    "description": "Learn how BloxFlip collects, processes and protects personal information, manages cookies, performs verification checks and supports account security and privacy rights.",
+                    "canonical": "bloxflip-online.com\/privacy",
+                    "twitterSite": "bloxflip-online.com\/privacy"
+                },
+                "hero": {
+                    "title": "BloxFlip Privacy — Data Protection and Account Security"
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "BloxFlip Privacy, Security, and User Data Protection",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Privacy and Personal Data Protection\n<\/h3>\n<p>\nAt BloxFlip, user privacy is an important part of our platform operations. We process personal information for account management, security purposes, verification procedures and access to platform features. Our casino applies technical and organisational safeguards designed to protect information from unauthorised access, alteration or loss. Access to personal information is limited to authorised systems and personnel when necessary for operational purposes. Continued use of the platform confirms acceptance of the applicable privacy practices and data processing policies.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Data Collection Categories\n<\/h3>\n<p>\nTo support account functionality, platform security and game-related services, BloxFlip may collect different categories of information. The amount of information processed depends on account activity, platform features and verification requirements.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration Information\n<\/h4>\n<ul>\n<li>• Username, email address and account details used for account creation and management.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nVerification Information\n<\/h4>\n<ul>\n<li>• Identity, age and address documentation used during KYC and security reviews.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPayment Information\n<\/h4>\n<ul>\n<li>• Deposit, withdrawal and transaction records used to process account activity and prevent fraud.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTechnical Information\n<\/h4>\n<ul>\n<li>• Device, browser, IP address and connection details used for security and platform performance.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nGaming Activity\n<\/h4>\n<ul>\n<li>• Gameplay history, rewards, FlipCoins activity and interactions with supported game modes.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Personal Data Usage, Verification and Cookies\n<\/h3>\n<p>\nPersonal information is used to manage accounts, support platform security and provide access to gaming features. Data helps verify user identity, detect suspicious activity and maintain compliance with internal controls. Identity verification allows us to confirm account ownership and eligibility requirements. Cookies and similar technologies help maintain sessions, remember preferences and improve platform stability. Technical monitoring also supports fraud prevention, security analysis and account protection.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Data Sharing and Third Parties\n<\/h3>\n<p>\nPersonal information is not shared with third parties without a legitimate reason connected to platform operations, security requirements or legal obligations. Information may be disclosed only when necessary to support account services and compliance procedures.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPayment Providers\n<\/h4>\n<ul>\n<li>• Process deposits, withdrawals and transaction-related verification procedures.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nVerification Partners\n<\/h4>\n<ul>\n<li>• Assist with identity, age and document authenticity reviews.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTechnical Service Providers\n<\/h4>\n<ul>\n<li>• Support hosting, infrastructure, cybersecurity and platform operations.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegulatory Authorities\n<\/h4>\n<ul>\n<li>• May receive information where required by law or official requests.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAnalytics Providers\n<\/h4>\n<ul>\n<li>• Use technical or aggregated information to evaluate platform performance.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Data Protection, Retention and User Rights\n<\/h3>\n<p>\nWe use modern security measures including protected connections, access controls and account monitoring systems. Information is retained only for periods required to support contractual obligations, security procedures and applicable compliance requirements. Once retention periods expire, data may be deleted or anonymised according to internal processes. Users may request information regarding their personal data, seek corrections and raise privacy-related enquiries. Certain limitations may apply where security, financial controls or legal obligations require continued processing.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBloxFlip Privacy and User Responsibility\n<\/h3>\n<p>\nPrivacy protection relies on both platform security measures and responsible account management. We encourage users to maintain strong passwords, protect their devices and keep software updated. Account credentials should remain confidential and under the control of the account owner. Shared responsibility helps maintain a secure and reliable platform environment.\n<\/p>\n<br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n<thead>\n<tr style=\"background-color: #3656FF;\">\n<th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Category<\/th>\n<th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Platform Respon&shy;sibility<\/th>\n<th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">User Respon&shy;sibility<\/th>\n<\/tr>\n<\/thead>\n<tbody>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Data Access<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Protection and access control<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Password security<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Account Safety<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Activity monitoring<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Login review<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Privacy<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Policy-based processing<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Device protection<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Verifi&shy;cation<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Document review<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Accurate information<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<br>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "What happens if I change my email address?",
+                            "answer": "Account information may be updated according to applicable security procedures."
+                        },
+                        {
+                            "title": "Is information retained after account closure?",
+                            "answer": "Certain records may be retained for defined periods to satisfy legal, financial and compliance requirements."
+                        },
+                        {
+                            "title": "Is data shared with advertising companies?",
+                            "answer": "Information sharing occurs only in accordance with privacy practices and authorised processing requirements."
+                        },
+                        {
+                            "title": "How are verification documents protected?",
+                            "answer": "Documents are processed through secure systems and used solely for identity verification purposes."
+                        },
+                        {
+                            "title": "Does using multiple devices affect security checks?",
+                            "answer": "Additional verification may occasionally be required when new devices or unusual login patterns are detected."
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "faq",
+            "path": "\/faq",
+            "name": "FAQ",
+            "sections": {
+                "seo": {
+                    "title": "BloxFlip FAQ: FlipCoins, Games, Rewards, Withdrawals and Account Safety",
+                    "description": "BloxFlip FAQ covers FlipCoins, Crash, Mines, Case Battles, rewards, £ deposits, mobile access, provably fair gameplay, account rules and platform security.",
+                    "canonical": "bloxflip-online.com\/faq",
+                    "twitterSite": "bloxflip-online.com\/faq"
+                },
+                "hero": {
+                    "title": "BloxFlip FAQ — Questions About Games, FlipCoins and Rewards"
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "BloxFlip FAQ: Frequently Asked Questions for Players",
+                        "description": "<h4 style = \"font-weight: bold; font-size: 24px;\">\nHow is BloxFlip different from a traditional online casino?\n<\/h4>\n<p>\nBloxFlip operates as a social casino and arcade-style platform rather than a conventional online casino with standard provider slots and regular fiat-only wagering. Our casino is built around FlipCoins, fast game modes and case-based features. This creates a more dynamic experience focused on quick sessions, transparent game mechanics and account-based rewards.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWhat are FlipCoins at BloxFlip?\n<\/h4>\n<p>\nFlipCoins are the internal BloxFlip balance used across games, cases, rewards and selected account features. We use FlipCoins as a unified balance so users can manage gameplay activity from one place. The balance may be funded through available cashier options, including £ payments, crypto, Robux, limiteds and other supported methods.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDoes BloxFlip include live features?\n<\/h4>\n<p>\nYes, BloxFlip may include live-feed elements, recent activity information and dynamic game updates. These features help users follow platform movement, recent outcomes and active gameplay. On mobile devices, live information is also available, although performance depends on device quality and connection stability.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWhat does provably fair mean at BloxFlip?\n<\/h4>\n<p>\nProvably fair is a result verification system that helps users check that a game outcome was not changed after the round began. At our casino, this is especially relevant for arcade formats such as Crash, Mines, Dice and Plinko. It supports a more transparent and understandable gameplay structure.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCan BloxFlip be used on a tablet?\n<\/h4>\n<p>\nYes, BloxFlip works through a browser on tablets, including iPad and Android devices. A larger screen can be useful for Case Battles, Mines, Towers, Blackjack and account management. We recommend using an updated browser and a stable Wi-Fi, 4G or 5G connection.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWhich BloxFlip games suit short sessions?\n<\/h4>\n<p>\nCrash, Dice, Plinko, Mines and Towers are often suitable for shorter sessions because rounds move quickly. We also support case-based modes where results are revealed through case openings or battles. These formats work well for users who prefer a faster arcade-style rhythm.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCan I track my game history at BloxFlip?\n<\/h4>\n<p>\nYes, activity history helps users review gameplay actions, balance changes and session results. At our casino, this information is important for monitoring FlipCoins, rewards and overall account activity. Available records can be checked through the profile or relevant account sections.\n<\/p>\n<br>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "What are the main BloxFlip games?",
+                            "answer": "Core game modes include Crash, Mines, Towers, Dice, Plinko, Blackjack, Slots, Case Battles, Jackpot, Wheel and Cups. Our casino focuses on fast arcade-style games and social casino mechanics. Availability may vary depending on the current platform setup and account status."
+                        },
+                        {
+                            "title": "Does BloxFlip use real money?",
+                            "answer": "BloxFlip uses FlipCoins as the internal balance, while deposits may be connected to available payment routes such as £ payments, crypto, Robux and limiteds. After funding the account, gameplay activity is managed through FlipCoins. Before confirming a transaction, users should review limits, fees and method status in the cashier."
+                        },
+                        {
+                            "title": "Can game fairness be checked?",
+                            "answer": "Yes, supported BloxFlip games use provably fair mechanics. This allows users to verify round results using game parameters. The system supports transparency and makes the gameplay structure easier to understand."
+                        },
+                        {
+                            "title": "What is the rewards section?",
+                            "answer": "The rewards section brings together available rewards, free cases, daily rewards, rakeback and other account-based features. We show only the offers available to the specific account. Conditions may depend on activity, level and current platform rules."
+                        },
+                        {
+                            "title": "Are there account restrictions?",
+                            "answer": "Yes, users must follow registration, verification, payment and responsible platform use rules. We may restrict accounts connected to suspicious activity, multi-accounting, inaccurate information or terms violations. These measures help maintain platform security."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

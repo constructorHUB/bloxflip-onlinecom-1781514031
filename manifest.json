@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "short_name": "",
+  "theme_color": "",
+  "background_color": "#24294D",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1781272122-favicon-2026-06-12t163749989.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
